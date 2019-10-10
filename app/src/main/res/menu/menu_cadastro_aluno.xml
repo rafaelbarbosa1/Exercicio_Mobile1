@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuSalvarAluno"
+        android:title="Salvar Aluno"
+        android:icon="@drawable/ic_save"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="always"
+
+        />
+    <item
+        android:id="@+id/menuCancelar"
+        android:title="Cancelar"
+        android:icon="@drawable/ic_cancel"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="always"
+        />
+
+</menu>
